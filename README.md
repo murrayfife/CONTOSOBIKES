@@ -37,15 +37,9 @@ CONTOSOBIKES/
 │   ├── vendors/                 # Vendor master records
 │   ├── work_centers/            # Manufacturing work centers
 │   └── ...                      # Additional configuration domains
-├── content/                     # Reference documentation and sample data
-│   ├── COMPANY_PROFILE.md       # Full company profile and specifications
-│   ├── Sample_Bikes_Sales_content/  # Bike sales model and CSV data
-│   └── ...
-├── scripts/                     # PowerShell automation scripts
-│   ├── cost-rollup.ps1          # Cost rollup automation
-│   └── update-product-sourcing.ps1
-├── D365_Migration_Specification.md  # Detailed migration specification
-└── Implementation_Plan.md       # Phased D365 implementation plan
+├── docs/                        # Implementation documentation
+│   ├── D365_Migration_Specification.md  # Detailed migration specification
+│   └── Implementation_Plan.md          # Phased D365 implementation plan
 ```
 
 ---
@@ -78,7 +72,7 @@ CONTOSOBIKES/
 | Phase 4 | Sales — customers, sales orders, accounts receivable | Week 7–8 |
 | Phase 5 | Costing & manufacturing — cost categories, production orders | Week 9–10 |
 
-See [Implementation_Plan.md](Implementation_Plan.md) for the full phased task list and [D365_Migration_Specification.md](D365_Migration_Specification.md) for migration details.
+See [Implementation_Plan.md](docs/Implementation_Plan.md) for the full phased task list and [D365_Migration_Specification.md](docs/D365_Migration_Specification.md) for migration details.
 
 ---
 
@@ -95,5 +89,5 @@ See [Implementation_Plan.md](Implementation_Plan.md) for the full phased task li
 
 ## Related Documentation
 
-- [Company Profile](content/COMPANY_PROFILE.md)
-- [Sample Bike Sales Data](content/Sample_Bikes_Sales_content/README.md)
+- [D365 Migration Specification](docs/D365_Migration_Specification.md)
+- [Implementation Plan](docs/Implementation_Plan.md)
