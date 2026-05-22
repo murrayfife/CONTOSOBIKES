@@ -2,7 +2,7 @@
 
 ## 1. Executive Summary
 
-This document defines the configuration and data migration specification for moving Contoso Bikes from its current SAP Datasphere/HANA platform to Microsoft Dynamics 365 Finance & Supply Chain Management. The company is a B2B bicycle wholesaler operating across three global regions with 42 products, 40 business partners, and ~$20M annual revenue.
+This document defines the configuration and data migration specification for moving Contoso Bikes from its legacy ERP/analytics platform to Microsoft Dynamics 365 Finance & Supply Chain Management. The company is a B2B bicycle wholesaler operating across three global regions with 42 products, 40 business partners, and ~$20M annual revenue.
 
 ---
 
@@ -643,8 +643,8 @@ Sample calculated standard costs (materials + route labor + overhead surcharges)
 | 5 | Fixed sales pricing | No complex trade agreements initially |
 | 6 | 12.5% flat tax rate | Matches source data; refine post go-live per jurisdiction |
 | 7 | Manual inventory posting setup | MCP tools cannot configure InventPosting ListBox controls |
-| 8 | SAP Partner IDs → D365 Account Numbers | Mapped via CUST-/VEND- prefix convention |
-| 9 | SAP SALESORDERID preserved | Stored as external reference on migrated orders |
+| 8 | Legacy Partner IDs → D365 Account Numbers | Mapped via CUST-/VEND- prefix convention |
+| 9 | Legacy SALESORDERID preserved | Stored as external reference on migrated orders |
 | 10 | Historical orders imported as GL balances only | No open SO migration — clean cutover |
 | 11 | Standard cost for all manufactured items | Single costing version (STD) with BOM+Route calculation |
 | 12 | DefaultOrderType = Production for manufactured items | Required for BOM calculation to produce pending prices |
@@ -655,5 +655,5 @@ Sample calculated standard costs (materials + route labor + overhead surcharges)
 ---
 
 *Document Version: 1.1 — Updated May 21, 2026*
-*Source: SAP Datasphere Bikes Sales sample content*
+*Source: Legacy Bikes Sales sample content*
 *Updates: Added Manufacturing & Costing Configuration (Section 20), revised decisions table*

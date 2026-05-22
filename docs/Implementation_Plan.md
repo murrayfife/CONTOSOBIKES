@@ -8,7 +8,7 @@
 | Legal Entity | `CBKS` — Contoso Bikes Inc. |
 | Go-Live Target | FY2026 |
 | Approach | Phased configuration via OData/Data entities + manual UI steps |
-| Source System | SAP Datasphere / HANA |
+| Source System | Legacy ERP / Analytics Platform |
 
 ---
 
@@ -346,7 +346,7 @@ Master planning configuration including coverage groups, working time calendars,
 | 4.2.2 | Load AR opening balances | OData | General journal with customer accounts |
 | 4.2.3 | Load AP opening balances | OData | General journal with vendor accounts |
 | 4.2.4 | Post beginning GL balances | OData | General journal entry |
-| 4.2.5 | Reconcile trial balance to SAP | Manual | Sign-off |
+| 4.2.5 | Reconcile trial balance to legacy system | Manual | Sign-off |
 
 ### Step 4.3 — Go-Live Checklist
 
@@ -356,7 +356,7 @@ Master planning configuration including coverage groups, working time calendars,
 | 4.3.2 | All customers can place orders | Sales | ☐ |
 | 4.3.3 | All vendors can receive POs | Procurement | ☐ |
 | 4.3.4 | Inventory quantities reconciled | Warehouse | ☐ |
-| 4.3.5 | Trial balance matches SAP extract | Finance | ☐ |
+| 4.3.5 | Trial balance matches legacy system extract | Finance | ☐ |
 | 4.3.6 | Security roles assigned to users | IT | ☐ |
 | 4.3.7 | Number sequences verified | IT | ☐ |
 | 4.3.8 | Exchange rates loaded | Finance | ☐ |
