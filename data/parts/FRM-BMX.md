@@ -35,7 +35,7 @@
 
 | Field | Value |
 | --- | --- |
-| DefaultVendorAccountNumber | VEND-0002 |
+| DefaultVendorAccountNumber | [VEND-0002](../vendors/VEND-0002.md) |
 | VendorName | Contoso BMX Frames |
 | TradeAgreementPrice | 60.00 |
 | TradeAgreementCurrency | USD |
@@ -51,3 +51,11 @@
 | PlannedOrderType | Purchase |
 
 > Master planning groups requirements by day — one planned PO per item per day.
+
+## Used In BOMs
+- [BX-1011](../boms/BX-1011.md)
+- [BX-1012](../boms/BX-1012.md)
+- [BX-1013](../boms/BX-1013.md)
+- [BX-1014](../boms/BX-1014.md)
+- [BX-1015](../boms/BX-1015.md)
+- [BX-1016](../boms/BX-1016.md)

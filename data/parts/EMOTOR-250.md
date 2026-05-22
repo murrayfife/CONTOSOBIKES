@@ -35,7 +35,7 @@
 
 | Field | Value |
 | --- | --- |
-| DefaultVendorAccountNumber | VEND-0013 |
+| DefaultVendorAccountNumber | [VEND-0013](../vendors/VEND-0013.md) |
 | VendorName | Contoso Motor Works |
 | TradeAgreementPrice | 180.00 |
 | TradeAgreementCurrency | USD |
@@ -51,3 +51,7 @@
 | PlannedOrderType | Purchase |
 
 > Master planning groups requirements by day — one planned PO per item per day.
+
+## Used In BOMs
+- [EB-1131](../boms/EB-1131.md)
+- [EB-1132](../boms/EB-1132.md)

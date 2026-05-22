@@ -35,7 +35,7 @@
 
 | Field | Value |
 | --- | --- |
-| DefaultVendorAccountNumber | VEND-0011 |
+| DefaultVendorAccountNumber | [VEND-0011](../vendors/VEND-0011.md) |
 | VendorName | Contoso Brakes Ltd |
 | TradeAgreementPrice | 20.00 |
 | TradeAgreementCurrency | USD |
@@ -51,3 +51,13 @@
 | PlannedOrderType | Purchase |
 
 > Master planning groups requirements by day — one planned PO per item per day.
+
+## Used In BOMs
+- [BX-1011](../boms/BX-1011.md)
+- [BX-1015](../boms/BX-1015.md)
+- [CB-1161](../boms/CB-1161.md)
+- [CB-1162](../boms/CB-1162.md)
+- [CB-1163](../boms/CB-1163.md)
+- [HB-1174](../boms/HB-1174.md)
+- [RO-1001](../boms/RO-1001.md)
+- [RO-1002](../boms/RO-1002.md)

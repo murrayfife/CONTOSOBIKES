@@ -35,7 +35,7 @@
 
 | Field | Value |
 | --- | --- |
-| DefaultVendorAccountNumber | VEND-0007 |
+| DefaultVendorAccountNumber | [VEND-0007](../vendors/VEND-0007.md) |
 | VendorName | Contoso Wheel Systems |
 | TradeAgreementPrice | 48.00 |
 | TradeAgreementCurrency | USD |
@@ -51,3 +51,22 @@
 | PlannedOrderType | Purchase |
 
 > Master planning groups requirements by day — one planned PO per item per day.
+
+## Used In BOMs
+- [EB-1131](../boms/EB-1131.md)
+- [EB-1132](../boms/EB-1132.md)
+- [EB-1133](../boms/EB-1133.md)
+- [EB-1134](../boms/EB-1134.md)
+- [EB-1135](../boms/EB-1135.md)
+- [EB-1136](../boms/EB-1136.md)
+- [EB-1137](../boms/EB-1137.md)
+- [HB-1171](../boms/HB-1171.md)
+- [HB-1172](../boms/HB-1172.md)
+- [HB-1173](../boms/HB-1173.md)
+- [HB-1174](../boms/HB-1174.md)
+- [HB-1175](../boms/HB-1175.md)
+- [HB-1176](../boms/HB-1176.md)
+- [MB-1031](../boms/MB-1031.md)
+- [MB-1032](../boms/MB-1032.md)
+- [MB-1033](../boms/MB-1033.md)
+- [MB-1034](../boms/MB-1034.md)

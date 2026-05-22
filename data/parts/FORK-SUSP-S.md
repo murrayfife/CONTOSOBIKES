@@ -35,7 +35,7 @@
 
 | Field | Value |
 | --- | --- |
-| DefaultVendorAccountNumber | VEND-0005 |
+| DefaultVendorAccountNumber | [VEND-0005](../vendors/VEND-0005.md) |
 | VendorName | Contoso Fork and Suspension |
 | TradeAgreementPrice | 65.00 |
 | TradeAgreementCurrency | USD |
@@ -51,3 +51,13 @@
 | PlannedOrderType | Purchase |
 
 > Master planning groups requirements by day — one planned PO per item per day.
+
+## Used In BOMs
+- [EB-1131](../boms/EB-1131.md)
+- [EB-1132](../boms/EB-1132.md)
+- [EB-1133](../boms/EB-1133.md)
+- [EB-1135](../boms/EB-1135.md)
+- [HB-1172](../boms/HB-1172.md)
+- [HB-1175](../boms/HB-1175.md)
+- [HB-1176](../boms/HB-1176.md)
+- [MB-1031](../boms/MB-1031.md)

@@ -35,7 +35,7 @@
 
 | Field | Value |
 | --- | --- |
-| DefaultVendorAccountNumber | VEND-0009 |
+| DefaultVendorAccountNumber | [VEND-0009](../vendors/VEND-0009.md) |
 | VendorName | Contoso Drivetrain Supply |
 | TradeAgreementPrice | 75.00 |
 | TradeAgreementCurrency | USD |
@@ -51,3 +51,22 @@
 | PlannedOrderType | Purchase |
 
 > Master planning groups requirements by day — one planned PO per item per day.
+
+## Used In BOMs
+- [BX-1013](../boms/BX-1013.md)
+- [BX-1014](../boms/BX-1014.md)
+- [CC-1021](../boms/CC-1021.md)
+- [CC-1022](../boms/CC-1022.md)
+- [DB-1081](../boms/DB-1081.md)
+- [DB-1082](../boms/DB-1082.md)
+- [EB-1131](../boms/EB-1131.md)
+- [EB-1132](../boms/EB-1132.md)
+- [EB-1133](../boms/EB-1133.md)
+- [HB-1171](../boms/HB-1171.md)
+- [HB-1172](../boms/HB-1172.md)
+- [HB-1175](../boms/HB-1175.md)
+- [HB-1176](../boms/HB-1176.md)
+- [MB-1032](../boms/MB-1032.md)
+- [RC-1055](../boms/RC-1055.md)
+- [RO-1002](../boms/RO-1002.md)
+- [RO-1003](../boms/RO-1003.md)

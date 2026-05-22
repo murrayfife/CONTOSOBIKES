@@ -35,7 +35,7 @@
 
 | Field | Value |
 | --- | --- |
-| DefaultVendorAccountNumber | VEND-0011 |
+| DefaultVendorAccountNumber | [VEND-0011](../vendors/VEND-0011.md) |
 | VendorName | Contoso Brakes Ltd |
 | TradeAgreementPrice | 85.00 |
 | TradeAgreementCurrency | USD |
@@ -51,3 +51,27 @@
 | PlannedOrderType | Purchase |
 
 > Master planning groups requirements by day — one planned PO per item per day.
+
+## Used In BOMs
+- [BX-1014](../boms/BX-1014.md)
+- [CC-1022](../boms/CC-1022.md)
+- [CC-1023](../boms/CC-1023.md)
+- [DB-1081](../boms/DB-1081.md)
+- [DB-1082](../boms/DB-1082.md)
+- [DB-1083](../boms/DB-1083.md)
+- [EB-1131](../boms/EB-1131.md)
+- [EB-1132](../boms/EB-1132.md)
+- [EB-1133](../boms/EB-1133.md)
+- [EB-1134](../boms/EB-1134.md)
+- [EB-1135](../boms/EB-1135.md)
+- [EB-1136](../boms/EB-1136.md)
+- [EB-1137](../boms/EB-1137.md)
+- [HB-1175](../boms/HB-1175.md)
+- [HB-1176](../boms/HB-1176.md)
+- [MB-1032](../boms/MB-1032.md)
+- [MB-1033](../boms/MB-1033.md)
+- [MB-1034](../boms/MB-1034.md)
+- [RC-1052](../boms/RC-1052.md)
+- [RC-1053](../boms/RC-1053.md)
+- [RC-1054](../boms/RC-1054.md)
+- [RC-1057](../boms/RC-1057.md)

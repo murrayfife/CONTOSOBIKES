@@ -4,8 +4,8 @@
 
 | Field | Value |
 | --- | --- |
-| ItemNumber | EBATT-500 |
-| VendorAccountNumber | VEND-0014 |
+| ItemNumber | [EBATT-500](../parts/EBATT-500.md) |
+| VendorAccountNumber | [VEND-0014](../vendors/VEND-0014.md) |
 | EffectiveDate | 2024-01-01 |
 | ExpirationDate | 2099-12-31 |
 | DefaultVendor | Yes |

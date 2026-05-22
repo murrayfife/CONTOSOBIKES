@@ -35,7 +35,7 @@
 
 | Field | Value |
 | --- | --- |
-| DefaultVendorAccountNumber | VEND-0006 |
+| DefaultVendorAccountNumber | [VEND-0006](../vendors/VEND-0006.md) |
 | VendorName | Contoso Road Wheels |
 | TradeAgreementPrice | 42.00 |
 | TradeAgreementCurrency | USD |
@@ -51,3 +51,11 @@
 | PlannedOrderType | Purchase |
 
 > Master planning groups requirements by day — one planned PO per item per day.
+
+## Used In BOMs
+- [CB-1161](../boms/CB-1161.md)
+- [CB-1162](../boms/CB-1162.md)
+- [CB-1163](../boms/CB-1163.md)
+- [DB-1081](../boms/DB-1081.md)
+- [DB-1082](../boms/DB-1082.md)
+- [DB-1083](../boms/DB-1083.md)

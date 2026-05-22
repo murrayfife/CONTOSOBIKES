@@ -35,7 +35,7 @@
 
 | Field | Value |
 | --- | --- |
-| DefaultVendorAccountNumber | VEND-0008 |
+| DefaultVendorAccountNumber | [VEND-0008](../vendors/VEND-0008.md) |
 | VendorName | Contoso Tire Co |
 | TradeAgreementPrice | 16.00 |
 | TradeAgreementCurrency | USD |
@@ -51,3 +51,8 @@
 | PlannedOrderType | Purchase |
 
 > Master planning groups requirements by day — one planned PO per item per day.
+
+## Used In BOMs
+- [CB-1161](../boms/CB-1161.md)
+- [CB-1162](../boms/CB-1162.md)
+- [CB-1163](../boms/CB-1163.md)

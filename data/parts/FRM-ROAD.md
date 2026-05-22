@@ -35,7 +35,7 @@
 
 | Field | Value |
 | --- | --- |
-| DefaultVendorAccountNumber | VEND-0001 |
+| DefaultVendorAccountNumber | [VEND-0001](../vendors/VEND-0001.md) |
 | VendorName | Contoso Performance Frames |
 | TradeAgreementPrice | 85.00 |
 | TradeAgreementCurrency | USD |
@@ -51,3 +51,8 @@
 | PlannedOrderType | Purchase |
 
 > Master planning groups requirements by day — one planned PO per item per day.
+
+## Used In BOMs
+- [RO-1001](../boms/RO-1001.md)
+- [RO-1002](../boms/RO-1002.md)
+- [RO-1003](../boms/RO-1003.md)

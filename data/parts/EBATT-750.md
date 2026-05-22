@@ -35,7 +35,7 @@
 
 | Field | Value |
 | --- | --- |
-| DefaultVendorAccountNumber | VEND-0014 |
+| DefaultVendorAccountNumber | [VEND-0014](../vendors/VEND-0014.md) |
 | VendorName | Contoso E-Power Solutions |
 | TradeAgreementPrice | 350.00 |
 | TradeAgreementCurrency | USD |
@@ -51,3 +51,9 @@
 | PlannedOrderType | Purchase |
 
 > Master planning groups requirements by day — one planned PO per item per day.
+
+## Used In BOMs
+- [EB-1132](../boms/EB-1132.md)
+- [EB-1134](../boms/EB-1134.md)
+- [EB-1136](../boms/EB-1136.md)
+- [EB-1137](../boms/EB-1137.md)

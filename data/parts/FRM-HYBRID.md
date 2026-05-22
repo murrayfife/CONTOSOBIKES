@@ -35,7 +35,7 @@
 
 | Field | Value |
 | --- | --- |
-| DefaultVendorAccountNumber | VEND-0003 |
+| DefaultVendorAccountNumber | [VEND-0003](../vendors/VEND-0003.md) |
 | VendorName | Contoso Leisure Frames |
 | TradeAgreementPrice | 75.00 |
 | TradeAgreementCurrency | USD |
@@ -51,3 +51,11 @@
 | PlannedOrderType | Purchase |
 
 > Master planning groups requirements by day — one planned PO per item per day.
+
+## Used In BOMs
+- [HB-1171](../boms/HB-1171.md)
+- [HB-1172](../boms/HB-1172.md)
+- [HB-1173](../boms/HB-1173.md)
+- [HB-1174](../boms/HB-1174.md)
+- [HB-1175](../boms/HB-1175.md)
+- [HB-1176](../boms/HB-1176.md)
